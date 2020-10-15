@@ -5,13 +5,6 @@ date: "10/15/2020"
 output: html_document
 ---
 
----
-title: "Practical ML-Project"
-author: "Mrinalini"
-date: "10/15/2020"
-output: html_document
----
-
 
 ## Introduction  
 Our aim in this project is to determine the manner in which 6 participants did their exercise
