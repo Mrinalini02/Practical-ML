@@ -1,3 +1,4 @@
 # Practical-ML
 ## Introduction  
-Our aim in this project is to determine the manner in which 6 participants did their exercise
+People like to quantify how much of their activities instead of how well. The goal of this project is to use data from accelerometers on the belt, forearm, arm and dumbell of 6 participants.
+
